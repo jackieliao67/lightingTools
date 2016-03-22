@@ -1,5 +1,6 @@
 """
 Lighting Spheres Creator
+Version : v1.0
 """
 
 import maya.cmds as mc
